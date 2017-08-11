@@ -34,4 +34,4 @@ The TLS-N Utility Library makes use of [solidity-bytesutils](https://github.com/
 For a full example of the library in action, please see [BTCPriceFeed](https://github.com/tls-n/BTCPriceFeed).
 
 ## Ropsten Deployment
-The library is deployed inside Ropsten (Ethereum's test network) at address [0x92522f31816307715736bf49062f6edd80187bbf](https://ropsten.io/address/0x92522f31816307715736bf49062f6edd80187bbf).
+The tlsnutils library is deployed on Ropsten (Ethereum's test network) at address [0x92522f31816307715736bf49062f6edd80187bbf](https://ropsten.io/address/0x92522f31816307715736bf49062f6edd80187bbf).
